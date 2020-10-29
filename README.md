@@ -2,7 +2,7 @@
 
 ### Overview
 * Interpreter for the Tiny Basic language, written by myself as a fun exercise in C++
-* Should compile with gcc or msvc without any difficulties, I use CMake to compile it, but it is a very simple makefile
+* Should compile with g++ or msvc++ (or whatever they call it at microsoft these days) without any difficulties, I use CMake to compile it, but it is a very simple makefile
 * This used to be a part of my coding profile, but since I plan on developing it more, it seemed logical to give it it's own folder!
 
 ### Descriptions by file
